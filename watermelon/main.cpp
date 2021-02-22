@@ -15,12 +15,4 @@ int main() {
 		cout << "YES" << endl;
 
 	return 0;
-//	for (int i = 1; i < W/2; i++) {
-//		if (i % 2 == 0 && (W - i) % 2 == 0) {
-//			cout << "YES" << endl;
-//			return 0;
-//		}
-//	}
-//	cout << "NO" << endl;
-//	return 0;
 }
